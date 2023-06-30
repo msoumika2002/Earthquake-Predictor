@@ -1,0 +1,98 @@
+
+
+
+   body {
+    background-image: url('./eq.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+  }
+  
+  .dinpf {
+    width: 50%;
+    margin: 20px auto;
+    margin-top: 200px;
+    background-color: rgba(0, 0, 0, 0.361);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h3 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  label,
+  input {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  label {
+    color: #fff;
+    display: inline-block;
+    width: 300px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  
+  select:focus {
+    outline: none;
+  }
+  
+  input[type="number"],
+  select {
+    width: 30%;
+    padding: 12px 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #fafafa;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  input[type="number"]:focus,
+  select:focus {
+    border-bottom: 2px solid #ffffff;
+  }
+  
+  button[type="submit"] {
+    background-color: rgb(2, 8, 32);
+    color: rgb(255, 255, 255);
+    padding: 12px 20px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid #fff;
+  }
+  
+  button[type="submit"]:hover,
+  button[type="submit"]:focus {
+    background-color: rgb(2, 8, 32);
+    box-shadow: 8px 8px 8px 0px rgba(255, 255, 255, 0.959), 8px 8px 8px 0px rgb(255, 255, 255);
+    transform: translateY(-0.25em);
+    color: #fff;
+    transition: 0.25s;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
