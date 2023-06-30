@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# FastAPI Readme for Backend
+This repository contains a FastAPI project, a modern, fast (high-performance), web framework for building APIs with Python. The project follows best practices and showcases the power and simplicity of FastAPI.
+
+## Installation and Setup
+Clone this repository: git clone https://github.com/msoumika2002/Earthquake-Predictor
+Change to the project directory: cd fastapi-project
+Create and activate a virtual environment (optional but recommended).
+Install the required dependencies: pip install -r requirements.txt
+Start the FastAPI development server: uvicorn eqapi:app
+Visit http://localhost:8000/docs in your browser to access the interactive API documentation.
+
+## Project Structure
+eqapi.py : Entry point of the application containing the FastAPI app instance and the logic
+
