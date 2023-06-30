@@ -1,3 +1,7 @@
+# Application Screenshots
+<img width="600" alt="application screenshot" src="https://github.com/msoumika2002/Earthquake-Predictor/assets/98233841/3adea872-b56e-415a-a452-f39d79bd7fe8">
+<img width="600" alt="application screenshot" src="https://github.com/msoumika2002/Earthquake-Predictor/assets/98233841/d56c0c6c-d651-4f59-a8f9-9d048f62bdab">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
